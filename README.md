@@ -6,6 +6,6 @@ Software Engineering student at York University in Toronto, Canada. I'm building
 - 🌱 Learning: Java, Python, Git, and writing clean, tested code
 - 💼 Open to: part-time and remote roles (up to 24 hrs/week during term, full-time during breaks)
 - 🗣️ Languages: English, Igbo, learning French
-- 📫 Reach me: ikenkaclinton@gmail.com · [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 Reach me: ikenkaclinton@gmail.com · [LinkedIn]
 
 **Tools:** Java · Python · Git · GitHub · VS Code / IntelliJ
